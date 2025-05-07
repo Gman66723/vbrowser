@@ -4,7 +4,7 @@
     "DisableTelemetry": true,
     "DontCheckDefaultBrowser": true,
     "BlockAboutConfig": true,
-    "OverrideFirstRunPage": "",
+    "OverrideFirstRunPage": "true",
     "OfferToSaveLogins": false,
     "PromptForDownloadLocation":false,
     "ExtensionSettings": {
@@ -19,7 +19,7 @@
     },
     "Homepage": {
       "Additional": [],
-      "StartPage": "none"
+      "StartPage": "https://www.google.com/"
     }
   }
 }
